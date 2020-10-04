@@ -1,0 +1,12 @@
+G:\Learning Git\Line-Comparison\line\line\bin\Debug\netcoreapp3.1\line.exe
+G:\Learning Git\Line-Comparison\line\line\bin\Debug\netcoreapp3.1\line.deps.json
+G:\Learning Git\Line-Comparison\line\line\bin\Debug\netcoreapp3.1\line.runtimeconfig.json
+G:\Learning Git\Line-Comparison\line\line\bin\Debug\netcoreapp3.1\line.runtimeconfig.dev.json
+G:\Learning Git\Line-Comparison\line\line\bin\Debug\netcoreapp3.1\line.dll
+G:\Learning Git\Line-Comparison\line\line\bin\Debug\netcoreapp3.1\line.pdb
+G:\Learning Git\Line-Comparison\line\line\obj\Debug\netcoreapp3.1\line.AssemblyInfoInputs.cache
+G:\Learning Git\Line-Comparison\line\line\obj\Debug\netcoreapp3.1\line.AssemblyInfo.cs
+G:\Learning Git\Line-Comparison\line\line\obj\Debug\netcoreapp3.1\line.csproj.CoreCompileInputs.cache
+G:\Learning Git\Line-Comparison\line\line\obj\Debug\netcoreapp3.1\line.dll
+G:\Learning Git\Line-Comparison\line\line\obj\Debug\netcoreapp3.1\line.pdb
+G:\Learning Git\Line-Comparison\line\line\obj\Debug\netcoreapp3.1\line.genruntimeconfig.cache
